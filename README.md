@@ -8,3 +8,5 @@ uma das aulas, respondendo à algumas perguntas, de maneira criativa.</h5>
 <img src="telacomblur.png">
 <img src="teladiario.png">
 <img src="teladetalhedodia.png">
+
+Utilizamos como tecnologias principais: HTML5, CSS3, JavaScript com JQuery.
