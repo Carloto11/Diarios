@@ -5,5 +5,6 @@ uma das aulas, respondendo à algumas perguntas, de maneira criativa.</h5>
 <h2>Screenshots</h2>
 <img src="telainicial.png">
 <img src="telaselecao.png">
+<img src="telacomblur.png">
 <img src="teladiario.png">
 <img src="teladetalhedodia.png">
